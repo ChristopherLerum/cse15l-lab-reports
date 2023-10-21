@@ -1,5 +1,4 @@
-_test_ 
-
+* ** cd without arguments ** *
 ![Image](cd1-1.PNG) \
 For using the cd command without any arguments, nothing is printed and nothing changes in the terminal. That is because the cd command is meant to change the directory and no directory is listed.
 
