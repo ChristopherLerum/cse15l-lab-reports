@@ -15,20 +15,33 @@ For using the cd command with a directory path argument like lecture1, the termi
 ![Image](cd3.PNG) \
 For using the cd command with a file argument like hello.java, the terminal prints "bash: cd: hello.java: No such file or directory". That is because the cd command is meant to change the directory you are working in and a file is not a directory.
 
+
+<h2>ls Without Arguments</h2>
+
 ![Image](ls1.PNG) \
 For using the ls command without any arguments, a list of files within the current directory is printed. That is because the ls command is meant to print all files in the listed directory and if none is listed as an argument it prints the files in the current directory.
+
+<h2>ls With Directory Arguments</h2>
 
 ![Image](ls2.PNG) \
 For using the ls command with a directory path argument like messages, a list of files within the listed directory is printed. That is because the ls command is meant to print all files in the listed directory.
 
+<h2>ls With File Arguments</h2>
+
 ![Image](ls3.PNG) \
 For using the ls command with a file argument like hello.java, the name of the file is printed. That is because the ls command is meant to print all accessible files in the listed directory and when a file is listed the only accessible file is the file listed.
+
+<h2>cat Without Arguments</h2>
 
 ![Image](cat1.PNG) \
 For using the cat command without any arguments, nothing is printed and the terminal waits for more keyboard inputs and prints out anything that is typed until ctrl+D is input. That is because the cat command is used to print the contents of what is input and keyboard inputs count.
 
+<h2>cat With Directory Arguments</h2>
+
 ![Image](cat2.PNG) \
 For using the cat command with a directory path argument like messages, a message saying "cat: messages: Is a directory" is printed. That is because the cat command is used to print the contents of what is input mainly files and in this case, since a directory is used as an argument it just prints the fact that it is a directory.
+
+<h2>cat With File Arguments</h2>
 
 ![Image](cat3.PNG) \
 For using the cat command with a file argument like README, it prints the contents of whats in the file. That is because the cat command is used to print the contents of what is input.
