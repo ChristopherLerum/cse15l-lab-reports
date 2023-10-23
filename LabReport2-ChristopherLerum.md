@@ -50,3 +50,9 @@ For this example, the code used the handleRequest method to process the new url.
 
 
 <h3>Part 2</h3>
+
+![image](sshkey1.PNG)
+![image](sshkey2.PNG)
+![image](sshkey3.PNG)
+
+<h3>Part 3</h3>
