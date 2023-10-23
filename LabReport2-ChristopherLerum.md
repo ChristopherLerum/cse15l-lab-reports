@@ -61,3 +61,4 @@ For this example, the code used the handleRequest method to process the new url.
 ![image](sshkey3.PNG)
 
 <h3>Part 3</h3>
+In week 2 and 3, I learned how to remotely log into the UCSD computers from any other computer. I was also able to run servers, edit the servers, and use the urls for said servers. I was also able to set up ssh keys in order to log into the UCSD computers much faster.
