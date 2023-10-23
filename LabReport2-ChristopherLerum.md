@@ -47,3 +47,6 @@ For this example, the code used the handleRequest method to process the new url.
 
 ![image](StringServer2.PNG)
 For this example, the code used the handleRequest method to process the new url. For this method, it needed a URI argument which came from the url and processed the changes mainly being "/add-message?s=ChristopherLerum" at the end of the url. The method uses this part of the url and checks for a "/add-message", a query, and a string at the end in order for the method to work correctly. As a result of this input, the url variable changes to contain the URI argument being "https://0-0-0-0-4023-k3vjq4m7f7cnr6226520guci3s.us.edusercontent.com/add-message?s=ChristopherLerum", the num integer variable increments from 1 to 2 as it counts the amount of strings added, and the words string changes as it is now "1.test\n2.ChristopherLerum\n".
+
+
+<h3>Part 2</h3>
