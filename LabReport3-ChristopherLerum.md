@@ -58,3 +58,28 @@ after
     
 In order to fix reverseInPlace, you need to change the for loop to properly swap elements in the array to reverse the order. A temp variable should be used to properly store one of the elements during the swap.
 
+<h3>Part 2 -find</h3>
+
+<h5>-name</h5>
+![image](namef.PNG)
+![image](named.PNG)
+
+https://www.computerhope.com/unix/ufind.htm
+
+<h5>-maxdepth</h5>
+![image](maxdepthf.PNG)
+![image](named.PNG)
+
+https://www.computerhope.com/unix/ufind.htm
+
+<h5>-size</h5>
+![image](sizef.PNG)
+![image](sized.PNG)
+
+https://www.computerhope.com/unix/ufind.htm
+
+<h5>-size</h5>
+![image](inamef.PNG)
+![image](inamed.PNG)
+
+https://www.computerhope.com/unix/ufind.htm
