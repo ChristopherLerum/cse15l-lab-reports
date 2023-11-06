@@ -52,7 +52,7 @@ For this example, the code used the handleRequest method to process the new url.
 <h3>Part 2</h3>
 
 *The path to the private key.*\
-![image](sshkeyp.PNG)
+![image](sshkey.PNG)
 
 *The path to the public key.*\
 ![image](sshkey2.PNG)
