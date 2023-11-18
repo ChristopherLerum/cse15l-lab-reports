@@ -4,7 +4,7 @@
 
 ![image](Step4.PNG)
 
-Commands used: *ssh cs15lfa23ih@ieng6.ucsd.edu* is typed out/copied into the terminal, *<enter>*
+Commands used: *ssh cs15lfa23ih@ieng6.ucsd.edu* is typed out/copied into the terminal, <enter>
 
 <h3>Clone your fork of the repository from your Github account (using the SSH URL)</h3>
 
