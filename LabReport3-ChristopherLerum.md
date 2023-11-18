@@ -62,8 +62,11 @@ In order to fix reverseInPlace, you need to change the for loop to properly swap
 
 <h5>-name</h5>
 
-![image](namef.PNG)
-![image](named.PNG)
+    [cs15lfa23ih@ieng6-201]:docsearch:391$ find -name pmed.0020281.txt
+    ./technical/plos/pmed.0020281.txt
+
+    [cs15lfa23ih@ieng6-201]:docsearch:392$ find -name plos            
+    ./technical/plos
 
 https://www.computerhope.com/unix/ufind.htm
 
