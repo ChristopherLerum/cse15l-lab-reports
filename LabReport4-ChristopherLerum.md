@@ -40,7 +40,7 @@ Keys typed: <mark>*j*</mark> 43 times to get down to the line with the error, <m
 
 Keys typed:<mark>*<up>*</mark>, <mark>*<up>*</mark>, <mark>*<enter>*</mark> the <mark>*bash test.sh*</mark> command which was 2 up in the command history, <mark>*<enter>*</mark>
 
-<h3>Commit and push the resulting change to your Github account (you can pick any commit message!)</h3>h3>
+<h3>Commit and push the resulting change to your Github account (you can pick any commit message!)</h3>
 
 ![image](Step9.PNG)
 
