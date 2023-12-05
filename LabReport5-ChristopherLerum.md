@@ -4,3 +4,9 @@
 
 Hello, while working on lab 6 and the grade script, I was able to get the code to work for the submissions beforehand and now I finally got the code to work for the list-methods-signature submission by checking for incompatible types. However, now it does not say that there are compiling errors for the other errors. Any advice?
 
+![image](post1.PNG)
+
+<h2>A response from a TA asking a leading question or suggesting a command to try</h2>
+
+Have you tried using vim and checking the script if conditional statements or the order of commands in the bash script to see if the script may be ending early on accident or running commands incorrectly. 
+
